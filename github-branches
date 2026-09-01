@@ -1,0 +1,7 @@
+User@Lenovo MINGW64 /d/Visual Studio CODE/simple-interest-calculator (main)
+$ git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main

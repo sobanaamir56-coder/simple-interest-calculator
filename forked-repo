@@ -1,0 +1,17 @@
+curl -u sobanaamir56-coder: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 https://api.github.com/repos/sobanaamir56-coder/simple-interest-calculator | grep '"fork"'
+curl -u sobanaamir56-coder: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 https://api.github.com/repos/sobanaamir56-coder/simple-interest-calculator | grep '"full_name"'
+User@Lenovo MINGW64 /d/Visual Studio CODE
+$ curl -u sobanaamir56-coder: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 https://api.github.com/repos/sobanaamir56-coder/simple-interest-calculator | grep '"fork"'
+curl -u sobanaamir56-coder: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 https://api.github.com/repos/sobanaamir56-coder/simple-interest-calculator | grep '"full_name"'
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  "fork": true,
+100  24205 100  24205   0      0  2530    "fork": false,
+6    "fork": false,
+100  24205 100  24205   0      0  24148      0   00:01   00:01              0
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  "full_name": "sobanaamir56-coder/simple-interest-calculator",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+100  24205 100  24205   0          "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+100  24205 100  24205   0      0  26295      0                              0

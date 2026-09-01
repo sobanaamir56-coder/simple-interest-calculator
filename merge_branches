@@ -1,0 +1,31 @@
+User@Lenovo MINGW64 /d/Visual Studio CODE
+$ git clone https://github.com/sobanaamir56-coder/simple-interest-calculator.git
+Cloning into 'simple-interest-calculator'...
+remote: Enumerating objects: 41, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 41 (delta 1), reused 0 (delta 0), pack-reused 35 (from 1)
+Receiving objects: 100% (41/41), 20.03 KiB | 5.01 MiB/s, done.
+Resolving deltas: 100% (7/7), done.
+
+User@Lenovo MINGW64 /d/Visual Studio CODE
+$ cd simple-interest-calculator
+
+User@Lenovo MINGW64 /d/Visual Studio CODE/simple-interest-calculator (main)
+$ git checkout -b bug-fix-typo
+Switched to a new branch 'bug-fix-typo'
+
+User@Lenovo MINGW64 /d/Visual Studio CODE/simple-interest-calculator (bug-fix-typo)
+$ git add README.md
+git commit -m "Fix typo in README"
+On branch bug-fix-typo
+nothing to commit, working tree clean
+
+User@Lenovo MINGW64 /d/Visual Studio CODE/simple-interest-calculator (bug-fix-typo)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+User@Lenovo MINGW64 /d/Visual Studio CODE/simple-interest-calculator (main)
+$ git merge bug-fix-typo
+Already up to date.

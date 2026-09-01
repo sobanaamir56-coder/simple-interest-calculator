@@ -1,0 +1,9 @@
+User@Lenovo MINGW64 /d/Visual Studio CODE/simple-interest-calculator (main)
+$ curl -s -u sobanaamir56-coder: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 https://api.github.com/repos/sobanaamir56-coder/simple-interest-calculator | grep '"fork"'
+curl -s -u sobanaamir56-coder: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 https://api.github.com/repos/sobanaamir56-coder/simple-interest-calculator | grep '"full_name"'
+  "fork": true,
+    "fork": false,
+    "fork": false,
+  "full_name": "sobanaamir56-coder/simple-interest-calculator",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
